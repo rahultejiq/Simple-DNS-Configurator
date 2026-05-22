@@ -1,0 +1,6 @@
+{
+  "name": "Simple DNS Configurator",
+  "description": "Configure, test, and manage DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) servers with interactive query tools and diagnostic logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
